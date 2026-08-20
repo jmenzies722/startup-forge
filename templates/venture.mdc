@@ -1,9 +1,0 @@
-# Venture rule
-
-This repo was forged by the `startup-forge` skill under Shua Labs.
-
-- Source of truth: `SPEC.md` + `VENTURE.md`
-- Do not expand MVP scope without updating SPEC and getting a Proof pass
-- Prefer Shua Department agents: pilot → scope → pitch → axis → form → forge → ward → proof
-- No secrets in git; env only
-- Cool + shippable > theatrical architecture
